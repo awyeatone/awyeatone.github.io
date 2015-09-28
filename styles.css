@@ -5,13 +5,13 @@ body {
 }
 
 .pic {
+	text-align: center;
 	height: 400px;
 	width: 400px;
 	border-radius: 200px
 	-webkit-border-radius: 200px;
 	-moz-border-radius: 200px;
 	background: url(eelman.jpg);
-	text-align: center;
 }
 
 h1 {
