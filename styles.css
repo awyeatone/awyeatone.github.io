@@ -5,15 +5,9 @@ body {
 }
 
 .pic {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	border-radius: 50%;
 	height: 400px;
-	width: 400px;
-	border-radius: 200px
-	-webkit-border-radius: 200px;
-	-moz-border-radius: 200px;
-	background: url(eelman.jpg);
+	width: 200px;
 }
 
 h1 {
