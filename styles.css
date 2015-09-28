@@ -1,5 +1,36 @@
+body {
+	background-image: url(eelzoo.jpg);
+	background-color: #cccccc;
+}
+
+#pic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 h1 {
+	text-align: center;
 	font-size: 40px;
+	font-style: normal;
+	font-weight: thick;
+	font-family: 'Sans-serif', Verdana;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+	font-size: 30px;
+	font-style: normal;
+	font-family: 'Sans-serif', Verdana;
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	text-align: left;
+	font-size: 20px;
 	font-style: normal;
 	font-family: 'Sans-serif', Verdana;
 	margin: 0;
