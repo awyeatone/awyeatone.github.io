@@ -2,6 +2,8 @@ body {
 	background-image: url(eelzoo.jpg);
 	background-color: black;
 	color: #00FFFF;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .pic {
